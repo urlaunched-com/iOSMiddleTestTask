@@ -1,3 +1,5 @@
+# SwiftUI
+
 In this challenge, you need to create a screen with a list of items and a search field:
   - The network layer should be mocked (a JSON sample is available in the repository files, vendors.json);
   - The search should start automatically after a user has typed at least 3 symbols, with a 0.5-second debouncing period;
