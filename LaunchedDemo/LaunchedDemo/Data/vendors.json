@@ -161,6 +161,52 @@
           "purpose": "shop"
         }
       ]
+    },
+    {
+      "id": 8,
+      "company_name": "Pets",
+      "area_served": "Dnipro",
+      "shop_type": "Bar",
+      "favorited": false,
+      "follow": false,
+      "business_type": "physical",
+      "cover_photo": {
+        "id": 1381,
+        "media_url": "https://i.imgur.com/CzXTtJV.jpg",
+        "media_type": "image"
+      },
+      "categories": [
+        {
+          "id": 54,
+          "name": "Pets",
+          "image": {
+            "id": 1345,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        },
+        {
+          "id": 55,
+          "name": "Home",
+          "image": {
+            "id": 1345,
+            "media_url": "https://media-staging.chatsumer.app/48/1830f855-6315-4d3c-a5dc-088ea826aef2.svg",
+            "media_type": "image"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 60,
+          "name": "New",
+          "purpose": "shop"
+        },
+        {
+          "id": 86,
+          "name": "Test",
+          "purpose": "shop"
+        }
+      ]
     }
   ]
 }
